@@ -1,5 +1,3 @@
-# documentation-example
-
 ## Commit Message Format
 
 #### Commit Message Header
